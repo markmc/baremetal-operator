@@ -19,7 +19,7 @@ install the operator-sdk tools.
     kubectl create namespace metal3
     ```
 
-4. Install operator-sdk
+4. Install the operator
 
     ```
     eval $(go env)
